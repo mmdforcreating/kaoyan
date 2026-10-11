@@ -1,5 +1,7 @@
 # Windows 与 Mac mini 同步
 
+本页保留备用。2026-10-11 用户确认目前只在 Windows 工作，日常进度由助手整理并上传 GitHub，暂不需要配置不同设备同步或桌面备份。
+
 同一个 GitHub 仓库：[mmdforcreating/kaoyan](https://github.com/mmdforcreating/kaoyan)。两台电脑各保留一份本地副本；**Git 不会后台自动同步，需要主动拉取和推送**。
 
 云端助手只能操作当前云端工作区，无法直接创建你两台电脑上的目录。下面的首次克隆命令会在电脑上自动创建 `Documents/kaoyan`，包含 `CURRENT.md`、`MISTAKES.md`、`daily/`、`subjects/`、`sources/` 和模板等全部文件。
